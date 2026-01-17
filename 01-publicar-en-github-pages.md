@@ -32,7 +32,7 @@ En este curso vamos a publicar tu documentación como un **sitio web** usando:
 
 Vas a partir del repo plantilla (este repositorio).
 
-### Ruta A (recomendada): Fork del repo del profesor
+### Ruta A (recomendada): Fork del repositorio
 
 1. Abre el repositorio a copiar en GitHub.
 2. Clic en **Fork**.
