@@ -57,4 +57,4 @@ Este repo incluye una página ejemplo “Uso de IA” oculta del menú.
 ---
 
 ## Siguiente sección
-[Estructura del repositorio](02-estructura-del-repo.md)
+[Estructura del repositorio ](02-estructura-del-repo.md)

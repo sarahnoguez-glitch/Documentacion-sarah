@@ -66,4 +66,4 @@ nav_order: 10
 ---
 
 ## Siguiente sección
-[Estructura del repositorio](02-estructura-del-repo.md)
+[Estructura del repositorio ](02-estructura-del-repo.md)

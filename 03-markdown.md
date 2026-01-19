@@ -77,4 +77,4 @@ Advertencia: si tu instancia no muestra callouts, revisa que estés usando el te
 ---
 
 ## Siguiente sección
-[Estructura del repositorio](02-estructura-del-repo.md)
+[Estructura del repositorio ](02-estructura-del-repo.md)
