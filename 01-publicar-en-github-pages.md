@@ -173,9 +173,9 @@ GitHub te mostrará tu URL con este formato:
 
 ---
 
-## Checklist antes de entregar
+## Checklist 
 
-- [ ] Ya hiciste **commit** y **push** (desde Codespaces).
+- [ ] Hacer **commit** y **push** (desde Codespaces).
 - [ ] Ajustaste `url` y `baseurl` en `_config.yml`.
 - [ ] Activaste **Settings → Pages** con `main` y `/ (root)`.
 - [ ] En **Actions** la ejecución está en verde.
