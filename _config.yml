@@ -11,8 +11,8 @@ plugins:
 # - Para GitHub Pages (Project Page), edita:
 #     url: "https://TU_USUARIO.github.io"
 #     baseurl: "/NOMBRE_DEL_REPO"
-url: "https://hubergiron.github.io/"
-baseurl: "/portafolio-just-the-docs"
+url: "https://SarahNoguez.github.io/"
+baseurl: "documentacion-sarah"
 
 #Configuracion Formato, Header y Footer
 just_the_docs:
@@ -29,7 +29,7 @@ search:
 # Ejemplo de enlace auxiliar (aparece arriba a la derecha)
 aux_links:
   "Repositorio en GitHub":
-    - "https://github.com/HuberGiron/portafolio-just-the-docs"
+    - "https://github.com/SarahNoguez/documentacionsarah"
 
 # Enlaces
 permalink: pretty
