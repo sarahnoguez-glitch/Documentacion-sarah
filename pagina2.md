@@ -6,3 +6,4 @@ nav_order: 1
 ---
 
 hola
+![imagen](assets/img/ibero.webp)
