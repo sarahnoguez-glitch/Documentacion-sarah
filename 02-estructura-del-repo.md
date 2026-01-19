@@ -82,9 +82,10 @@ Cuando editas en Codespaces y haces **Commit** + **Push**:
 - `assets/files/` (PDFs, hojas de datos, entregables).
 - `_config.yml` (solo algunos campos; en especial `url` y `baseurl`).
 
-### Rara vez editas (solo si el profesor lo pide)
+### Rara vez editas (solo si necesitas cambiar estilos)
 
 - `_includes/head_custom.html` y `_includes/footer_custom.html` (para personalización visual).
+- `assets/css/custom.css` (Colores de barra de navegación, texto, icono, titulo)
 
 ---
 
@@ -108,7 +109,7 @@ nav_order: 10
 - `layout: default`: estándar para páginas del curso.
 
 **Figura 12 (pendiente):** Menú lateral mostrando el orden `nav_order`.  
-<!-- ![Figura 12 — Sidebar y orden](assets/img/fig12-sidebar-navorder.png) -->
+![Figura 12 — Sidebar y orden](assets/img/02-estructura/nav.png)
 
 ### Secciones con subpáginas (padre/hijas)
 
@@ -141,7 +142,7 @@ Reglas importantes:
 
 ---
 
-## 5) Convenciones recomendadas en este curso
+## 5) Convenciones recomendadas
 
 - **Nombres de archivo**: minúsculas + guiones  
   `mi-primer-apunte.md`, `sensores-de-temperatura.md`
@@ -166,9 +167,6 @@ Ejemplo de uso en Markdown:
 ![Descripcion de la imagen](assets/img/mi-diagrama.png)
 ```
 
-**Figura 13 (pendiente):** Carpeta `assets/img` con nombres consistentes.  
-<!-- ![Figura 13 — assets/img](assets/img/fig13-assets-img.png) -->
-
 ### PDFs u otros archivos descargables
 
 Crea/usa:
@@ -182,29 +180,9 @@ Ejemplo de link:
 
 ---
 
-## 7) Ejercicio (en Codespaces): crear una pagina nueva y publicarla
-
-1. En Codespaces, crea un archivo nuevo en la raíz del repo:
-   - `mi-primer-pagina.md`
-2. Pega esto:
-
-```yml
----
-layout: default
-title: Mi primer pagina
-nav_order: 30
----
-```
-
-3. Escribe 5–10 líneas de contenido.
-4. Source Control → **Commit** (mensaje: `Agrega mi primer pagina`) → **Push/Sync**.
-5. Ve a GitHub:
-   - Actions: espera a que esté en verde.
-   - Abre tu URL de Pages y confirma que aparece en el menú.
-
 ---
 
-## 8) Problemas típicos y soluciones rápidas
+## 7) Problemas típicos y soluciones rápidas
 
 - **La página no aparece en el menú**
   - Revisa que tenga front matter.
